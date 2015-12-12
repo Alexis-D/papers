@@ -98,7 +98,7 @@ _By John Wiegley_
 > I thought others might be interested to read what I've found, and perhaps
 > avoid the pain I went through finding it.
 
-# HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm [[pdf](http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf)]
+# HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm, 2007, [[pdf](http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf)]
 
 _By Philippe Flajolet,  Éric Fusy, Olivier Gandouet & Frédéric Meunier_
 
@@ -249,7 +249,7 @@ _By Sanjay Ghemawat, Howard Gobioff & Shun-Tak Leung_
 > support distributed applications, discuss many aspects of our design, and
 > report measurements from both micro-benchmarks and real world use. 
 
-# Tor: The Second-Generation Onion Router [[pdf](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf)]
+# Tor: The Second-Generation Onion Router, 2004, [[pdf](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf)]
 
 _By Roger Dingledine, Nick Mathewson & Paul Syverson_
 
