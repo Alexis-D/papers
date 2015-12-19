@@ -7,6 +7,7 @@
 - [ ] [Ron was wrong, Whit is right](https://eprint.iacr.org/2012/064.pdf)
 - [ ] [Secure Communications Over Insecure Channels](http://www.merkle.com/1974/PuzzlesAsPublished.pdf)
 - [ ] [User Interaction Design for Secure Systems](http://www.eecs.berkeley.edu/Pubs/TechRpts/2002/CSD-02-1184.pdf)
+- [ ] [Why Johnny Can’t Encrypt: A Usability Evaluation of PGP 5.0](http://www.gaudior.net/alma/johnny.pdf)
 
 ## Distributed Systems/Databases
 
