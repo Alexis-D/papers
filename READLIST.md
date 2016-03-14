@@ -1,7 +1,7 @@
 ## Crypto/Security
 
 - [ ] [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://people.csail.mit.edu/rivest/Rsapaper.pdf)
-- [ ] [Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices](https://factorable.net/weakkeys12.conference.pdf)
+- [x] [Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices](https://factorable.net/weakkeys12.conference.pdf)
 - [ ] [New directions in cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf)
 - [x] [Reflections on Trusting Trust](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 - [ ] [Ron was wrong, Whit is right](https://eprint.iacr.org/2012/064.pdf)
@@ -29,6 +29,7 @@
 
 ## Data Structures/Algorithms
 
+- [x] [A Java fork/join framework](http://gee.cs.oswego.edu/dl/papers/fj.pdf)
 - [ ] [An Improved Data Stream Summary: The Count-Min Sketch and its Applications](https://www.cse.unsw.edu.au/~cs9314/07s1/lectures/Lin_CS9314_References/cm-latin.pdf)
 - [ ] [An Optimal Algorithm for Selection in a Min-Heap](http://www.sciencedirect.com/science/article/pii/S0890540183710308)
 - [ ] [Cache-Oblivious Streaming B-trees](http://supertech.csail.mit.edu/papers/sbtree.pdf)
@@ -37,7 +38,7 @@
 - [x] [Effective Computation of Biased Quantiles over Data Streams](http://www.cs.rutgers.edu/~muthu/bquant.pdf)
 - [ ] [HyperLogLog and MinHash A Union for Intersections](http://tech.adroll.com/media/hllminhash.pdf)
 - [x] [HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm](http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf)
-- [ ] [Random Sampling with a Reservoir](https://www.cs.umd.edu/~samir/498/vitter.pdf)
+- [x] [Random Sampling with a Reservoir](https://www.cs.umd.edu/~samir/498/vitter.pdf)
 - [ ] [Randomized Search Trees](https://faculty.washington.edu/aragon/pubs/rst89.pdf)/[Fast Set Operations Using Treaps](https://www.cs.cmu.edu/~scandal/papers/treaps-spaa98.pdf)
 - [ ] [Space/time trade-offs in hash coding with allowable errors](https://www.cs.upc.edu/~diaz/p422-bloom.pdf)
 - [ ] [The Hungarian Method for the Assignment Problem](https://tom.host.cs.st-andrews.ac.uk/CS3052-CC/Practicals/Kuhn.pdf)
@@ -69,6 +70,6 @@
 
 - [ ] [Git](http://aosabook.org/en/git.html)
 - [ ] [Mercurial](http://aosabook.org/en/mercurial.html)
-- [ ] [NGINX](http://aosabook.org/en/nginx.html)
+- [x] [NGINX](http://aosabook.org/en/nginx.html)
 - [ ] [PyPy](http://aosabook.org/en/pypy.html)
 - [ ] [ZeroMQ](http://aosabook.org/en/zeromq.html)
