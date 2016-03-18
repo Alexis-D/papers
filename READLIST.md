@@ -31,6 +31,7 @@
 ## Data Structures/Algorithms
 
 - [x] [A Java fork/join framework](http://gee.cs.oswego.edu/dl/papers/fj.pdf)
+- [x] [A Scalable Concurrent `malloc(3)` Implementation for FreeBSD](https://people.freebsd.org/~jasone/jemalloc/bsdcan2006/jemalloc.pdf)
 - [ ] [An Improved Data Stream Summary: The Count-Min Sketch and its Applications](https://www.cse.unsw.edu.au/~cs9314/07s1/lectures/Lin_CS9314_References/cm-latin.pdf)
 - [ ] [An Optimal Algorithm for Selection in a Min-Heap](http://www.sciencedirect.com/science/article/pii/S0890540183710308)
 - [ ] [Cache-Oblivious Streaming B-trees](http://supertech.csail.mit.edu/papers/sbtree.pdf)
@@ -66,6 +67,8 @@
 
 - [x] [Dynamic Class Loading in the Java™ Virtual Machine](http://www.humbertocervantes.net/coursdea/DynamicClassLoadingInTheJavaVirtualMachine.pdf)
 - [x] [Git from the bottom up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
+- [x] [The Problem with Threads](http://www.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-1.pdf)
+- [x] [Architectural Mismatch or, Why it's hard to build systems out of existing parts](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1714&context=compsci)
 
 ## The Architecture of Open Source Applications
 
