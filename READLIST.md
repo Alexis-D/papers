@@ -1,12 +1,13 @@
 ## Crypto/Security
 
-- [ ] [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://people.csail.mit.edu/rivest/Rsapaper.pdf)
+- [x] [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://people.csail.mit.edu/rivest/Rsapaper.pdf)
 - [x] [How to Share a Secret](https://cs.jhu.edu/~sdoshi/crypto/papers/shamirturing.pdf)
 - [x] [Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices](https://factorable.net/weakkeys12.conference.pdf)
 - [ ] [New directions in cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf)
 - [x] [Reflections on Trusting Trust](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 - [ ] [Ron was wrong, Whit is right](https://eprint.iacr.org/2012/064.pdf)
 - [ ] [Secure Communications Over Insecure Channels](http://www.merkle.com/1974/PuzzlesAsPublished.pdf)
+- [x] [The most dangerous code in the world: validating SSL certificates in non-browser software](http://www.cs.utexas.edu/~shmat/shmat_ccs12.pdf)
 - [ ] [User Interaction Design for Secure Systems](http://www.eecs.berkeley.edu/Pubs/TechRpts/2002/CSD-02-1184.pdf)
 - [x] [Why Johnny Can’t Encrypt: A Usability Evaluation of PGP 5.0](http://www.gaudior.net/alma/johnny.pdf)
 
@@ -31,7 +32,6 @@
 ## Data Structures/Algorithms
 
 - [x] [A Java fork/join framework](http://gee.cs.oswego.edu/dl/papers/fj.pdf)
-- [x] [A Scalable Concurrent `malloc(3)` Implementation for FreeBSD](https://people.freebsd.org/~jasone/jemalloc/bsdcan2006/jemalloc.pdf)
 - [ ] [An Improved Data Stream Summary: The Count-Min Sketch and its Applications](https://www.cse.unsw.edu.au/~cs9314/07s1/lectures/Lin_CS9314_References/cm-latin.pdf)
 - [ ] [An Optimal Algorithm for Selection in a Min-Heap](http://www.sciencedirect.com/science/article/pii/S0890540183710308)
 - [ ] [Cache-Oblivious Streaming B-trees](http://supertech.csail.mit.edu/papers/sbtree.pdf)
@@ -63,12 +63,18 @@
 - [x] [Evolving Neural Networks Through Augmenting Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
 - [ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
+## OS/Systems
+
+- [x] [A Scalable Concurrent `malloc(3)` Implementation for FreeBSD](https://people.freebsd.org/~jasone/jemalloc/bsdcan2006/jemalloc.pdf)
+- [ ] [Plan 9 from Bell Labs](https://www.usenix.org/legacy/publications/compsystems/1995/sum_pike.pdf)
+- [x] [The Problem with Threads](http://www.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-1.pdf)
+- [ ] [The UNIX Time-Sharing System](http://www.cs.berkeley.edu/~brewer/cs262/unix.pdf)
+
 ## Others
 
+- [x] [Architectural Mismatch or, Why it's hard to build systems out of existing parts](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1714&context=compsci)
 - [x] [Dynamic Class Loading in the Java™ Virtual Machine](http://www.humbertocervantes.net/coursdea/DynamicClassLoadingInTheJavaVirtualMachine.pdf)
 - [x] [Git from the bottom up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
-- [x] [The Problem with Threads](http://www.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-1.pdf)
-- [x] [Architectural Mismatch or, Why it's hard to build systems out of existing parts](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1714&context=compsci)
 
 ## The Architecture of Open Source Applications
 
