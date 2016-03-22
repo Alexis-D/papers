@@ -66,7 +66,9 @@
 ## OS/Systems
 
 - [x] [A Scalable Concurrent `malloc(3)` Implementation for FreeBSD](https://people.freebsd.org/~jasone/jemalloc/bsdcan2006/jemalloc.pdf)
+- [ ] [Garbage Collection in an Uncooperative Environment](http://www.hboehm.info/spe_gc_paper/preprint.pdf)
 - [ ] [Plan 9 from Bell Labs](https://www.usenix.org/legacy/publications/compsystems/1995/sum_pike.pdf)
+- [ ] [The BSD Packet Filter: A New Architecture for User-level Packet Capture](http://www.tcpdump.org/papers/bpf-usenix93.pdf)
 - [x] [The Problem with Threads](http://www.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-1.pdf)
 - [x] [The UNIX Time-Sharing System](http://www.cs.berkeley.edu/~brewer/cs262/unix.pdf)
 
