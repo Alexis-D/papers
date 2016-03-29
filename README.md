@@ -8,7 +8,7 @@ for a more objective list of major papers.
 - [x] :star: [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://people.csail.mit.edu/rivest/Rsapaper.pdf)
 - [x] :star: [How to Share a Secret](https://cs.jhu.edu/~sdoshi/crypto/papers/shamirturing.pdf)
 - [x] :star: [Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices](https://factorable.net/weakkeys12.conference.pdf)
-- [ ] :star: [New directions in cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf)
+- [ ] [New directions in cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf)
 - [x] [Reflections on Trusting Trust](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 - [ ] [Ron was wrong, Whit is right](https://eprint.iacr.org/2012/064.pdf)
 - [x] :star: [Secure Communications Over Insecure Channels](http://www.merkle.com/1974/PuzzlesAsPublished.pdf)
