@@ -8,7 +8,7 @@ for a more objective list of major papers.
 - [x] :star: [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://people.csail.mit.edu/rivest/Rsapaper.pdf)
 - [x] :star: [How to Share a Secret](https://cs.jhu.edu/~sdoshi/crypto/papers/shamirturing.pdf)
 - [x] :star: [Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices](https://factorable.net/weakkeys12.conference.pdf)
-- [ ] [New directions in cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf)
+- [x] :star: [New directions in cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf)
 - [x] [Reflections on Trusting Trust](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 - [ ] [Ron was wrong, Whit is right](https://eprint.iacr.org/2012/064.pdf)
 - [x] :star: [Secure Communications Over Insecure Channels](http://www.merkle.com/1974/PuzzlesAsPublished.pdf)
@@ -20,7 +20,7 @@ for a more objective list of major papers.
 
 - [x] :star: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 - [x] :star: [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](http://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
-- [ ] [C-Store: A Column-oriented DBMS](https://cs.brown.edu/courses/cs227/archives/2008/mitchpapers/required4.pdf)
+- [x] :star: [C-Store: A Column-oriented DBMS](https://cs.brown.edu/courses/cs227/archives/2008/mitchpapers/required4.pdf)
 - [x] [Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web ](http://www.akamai.com/dl/technical_publications/ConsistenHashingandRandomTreesDistributedCachingprotocolsforrelievingHotSpotsontheworldwideweb.pdf)
 - [x] [Column-Stores vs. Row-Stores: How Different Are They Really?](http://db.csail.mit.edu/projects/cstore/abadi-sigmod08.pdf)
 - [x] [Dynamo: Amazon’s Highly Available Key-value Store](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
@@ -66,7 +66,6 @@ for a more objective list of major papers.
 
 - [x] [Differential evolution–a simple and efficient heuristic for global optimization over continuous spaces](https://bitbucket.org/12er/pso/src/b448ff0db375c1ac0c55855e9f19aced08b44ca6/doc/literature/heuristic%20Search/Differential%20Evolution%20-%20a%20simple%20and%20efficient%20heuristic%20for%20global%20optimization%20over%20continuous%20spaces.pdf)
 - [x] [Evolving Neural Networks Through Augmenting Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
-- [ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 ## OS/Systems
 
