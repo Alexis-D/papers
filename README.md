@@ -19,6 +19,7 @@ for a more objective list of major papers.
 ## Distributed Systems/Databases
 
 - [x] :star: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+- [ ] [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](https://www.cs.berkeley.edu/~sameerag/blinkdb_eurosys13.pdf)
 - [x] :star: [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](http://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
 - [x] :star: [C-Store: A Column-oriented DBMS](https://cs.brown.edu/courses/cs227/archives/2008/mitchpapers/required4.pdf)
 - [x] [Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web ](http://www.akamai.com/dl/technical_publications/ConsistenHashingandRandomTreesDistributedCachingprotocolsforrelievingHotSpotsontheworldwideweb.pdf)
