@@ -6,6 +6,9 @@ for a more objective list of major papers.
 ## Crypto/Security
 
 - [x] :star: [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://people.csail.mit.edu/rivest/Rsapaper.pdf)
+- [ ] [Hiding Information and Signatures in Trapdoor Knapsacks](https://pdfs.semanticscholar.org/da4f/f3b089d9404c0283fdb54403d41f736175a1.pdf)
+- [x] [How to Explain Zero-Knowledge Protocols to Your Children](http://pages.cs.wisc.edu/~mkowalcz/628.pdf)
+- [x] [How to Expose an Eavesdropper](https://people.csail.mit.edu/rivest/RivestShamir-HowToExposeAnEavesdropper.pdf)
 - [x] :star: [How to Share a Secret](https://cs.jhu.edu/~sdoshi/crypto/papers/shamirturing.pdf)
 - [x] :star: [Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices](https://factorable.net/weakkeys12.conference.pdf)
 - [x] :star: [New directions in cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf)
@@ -35,6 +38,7 @@ for a more objective list of major papers.
 - [x] :star: [Tor: The Second-Generation Onion Router](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf)
 - [ ] [Unicorn: A System for Searching the Social Graph](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p871-curtiss.pdf)
 - [x] [Warp: Lightweight Multi-Key Transactions for Key-Value Stores](http://hyperdex.org/papers/warp.pdf acid on top of hyperdex)
+- [x] [Why the Internet only just works](http://www0.cs.ucl.ac.uk/staff/M.Handley/papers/only-just-works.pdf)
 
 ## Data Structures/Algorithms
 
