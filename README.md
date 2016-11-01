@@ -5,6 +5,7 @@ for a more objective list of major papers.
 
 ## Crypto/Security
 
+- [x] [A Convenient Method for Securely Managing Passwords](https://www.cs.utexas.edu/~bwaters/publications/papers/www2005.pdf)
 - [x] :star: [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://people.csail.mit.edu/rivest/Rsapaper.pdf)
 - [ ] [Hiding Information and Signatures in Trapdoor Knapsacks](https://pdfs.semanticscholar.org/da4f/f3b089d9404c0283fdb54403d41f736175a1.pdf)
 - [x] [How to Explain Zero-Knowledge Protocols to Your Children](http://pages.cs.wisc.edu/~mkowalcz/628.pdf)
