@@ -54,7 +54,7 @@ for a more objective list of major papers.
 - [x] :star: [HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm](http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf)
 - [x] [Random Sampling with a Reservoir](https://www.cs.umd.edu/~samir/498/vitter.pdf)
 - [ ] [Randomized Search Trees](https://faculty.washington.edu/aragon/pubs/rst89.pdf)/[Fast Set Operations Using Treaps](https://www.cs.cmu.edu/~scandal/papers/treaps-spaa98.pdf)
-- [ ] [Space/time trade-offs in hash coding with allowable errors](https://www.cs.upc.edu/~diaz/p422-bloom.pdf)
+- [x] [Space/time trade-offs in hash coding with allowable errors](https://www.cs.upc.edu/~diaz/p422-bloom.pdf)
 - [ ] [The Hungarian Method for the Assignment Problem](https://tom.host.cs.st-andrews.ac.uk/CS3052-CC/Practicals/Kuhn.pdf)
 - [x] [The Log-Structure Merge-Tree (LSM-Tree)](http://www.cs.umb.edu/~poneil/lsmtree.pdf)
 
@@ -64,6 +64,7 @@ for a more objective list of major papers.
 - [ ] [Dremel: Interactive Analysis of Web-Scale Datasets](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
 - [x] :star: [HyperLogLog in Practice: Algorithmic Engineering of a State of The Art Cardinality Estimation Algorithm](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40671.pdf)
 - [x] [MapReduce: Simplified Data Processing on Large Clusters](http://research.google.com/archive/mapreduce-osdi04.pdf)
+- [x] [Security Keys: Practical Cryptographic Second Factors for the Modern Web](http://fc16.ifca.ai/preproceedings/25_Lang.pdf)
 - [ ] [Spanner: Google’s Globally-Distributed Database](http://static.googleusercontent.com/media/research.google.com/en/us/archive/spanner-osdi2012.pdf)
 - [x] :star: [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf)
 - [ ] [The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
