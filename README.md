@@ -1,4 +1,4 @@
-A list of papers I've been reading, or meaning to read. Mostly CS-related.
+# A list of papers I've been reading, or meaning to read. Mostly CS-related.
 
 See <https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science>
 for a more objective list of major papers.
@@ -82,6 +82,7 @@ for a more objective list of major papers.
 - [ ] [Garbage Collection in an Uncooperative Environment](http://www.hboehm.info/spe_gc_paper/preprint.pdf)
 - [ ] [Plan 9 from Bell Labs](https://www.usenix.org/legacy/publications/compsystems/1995/sum_pike.pdf)
 - [x] [The Problem with Threads](http://www.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-1.pdf)
+- [x] [Traps and Pitfalls: Practical Problems in System Call Interposition Based Security Tools](https://people.eecs.berkeley.edu/~dawnsong/teaching/f12-cs161/readings/traps.pdf)
 - [x] :star: [The UNIX Time-Sharing System](http://www.cs.berkeley.edu/~brewer/cs262/unix.pdf)
 
 ## Others
