@@ -55,6 +55,7 @@ for a more objective list of major papers.
 - [x] [Random Sampling with a Reservoir](https://www.cs.umd.edu/~samir/498/vitter.pdf)
 - [ ] [Randomized Search Trees](https://faculty.washington.edu/aragon/pubs/rst89.pdf)/[Fast Set Operations Using Treaps](https://www.cs.cmu.edu/~scandal/papers/treaps-spaa98.pdf)
 - [x] [Space/time trade-offs in hash coding with allowable errors](https://www.cs.upc.edu/~diaz/p422-bloom.pdf)
+- [x] :start: [Swinging door trending: adaptive trend recording](http://www.ebristoliclrga.com/PDF/SwDr.pdf)
 - [ ] [The Hungarian Method for the Assignment Problem](https://tom.host.cs.st-andrews.ac.uk/CS3052-CC/Practicals/Kuhn.pdf)
 - [x] [The Log-Structure Merge-Tree (LSM-Tree)](http://www.cs.umb.edu/~poneil/lsmtree.pdf)
 
