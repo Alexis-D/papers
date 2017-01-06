@@ -7,6 +7,7 @@ for a more objective list of major papers.
 
 - [x] [A Convenient Method for Securely Managing Passwords](https://www.cs.utexas.edu/~bwaters/publications/papers/www2005.pdf)
 - [x] :star: [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://people.csail.mit.edu/rivest/Rsapaper.pdf)
+- [x] [Blocking-resistant communication through domain fronting](http://www.icir.org/vern/papers/meek-PETS-2015.pdf)
 - [ ] [Hiding Information and Signatures in Trapdoor Knapsacks](https://pdfs.semanticscholar.org/da4f/f3b089d9404c0283fdb54403d41f736175a1.pdf)
 - [x] [How to Explain Zero-Knowledge Protocols to Your Children](http://pages.cs.wisc.edu/~mkowalcz/628.pdf)
 - [x] [How to Expose an Eavesdropper](https://people.csail.mit.edu/rivest/RivestShamir-HowToExposeAnEavesdropper.pdf)
@@ -54,6 +55,7 @@ for a more objective list of major papers.
 - [x] :star: [HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm](http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf)
 - [x] [Random Sampling with a Reservoir](https://www.cs.umd.edu/~samir/498/vitter.pdf)
 - [ ] [Randomized Search Trees](https://faculty.washington.edu/aragon/pubs/rst89.pdf)/[Fast Set Operations Using Treaps](https://www.cs.cmu.edu/~scandal/papers/treaps-spaa98.pdf)
+- [ ] [Space-Efficient Online Computation of Quantile Summaries](http://infolab.stanford.edu/~datar/courses/cs361a/papers/quantiles.pdf)
 - [x] [Space/time trade-offs in hash coding with allowable errors](https://www.cs.upc.edu/~diaz/p422-bloom.pdf)
 - [x] :start: [Swinging door trending: adaptive trend recording](http://www.ebristoliclrga.com/PDF/SwDr.pdf)
 - [ ] [The Hungarian Method for the Assignment Problem](https://tom.host.cs.st-andrews.ac.uk/CS3052-CC/Practicals/Kuhn.pdf)
