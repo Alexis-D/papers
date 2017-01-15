@@ -50,6 +50,7 @@ for a more objective list of major papers.
 - [ ] [Cache-Oblivious Streaming B-trees](http://supertech.csail.mit.edu/papers/sbtree.pdf)
 - [ ] [Computing Extremely Accurate Quantiles using t-Digests](https://raw.githubusercontent.com/tdunning/t-digest/master/docs/t-digest-paper/histo.pdf)
 - [ ] [Cuckoo Filter: Practically Better Than Bloom](http://www.pdl.cmu.edu/PDL-FTP/FS/cuckoo-conext2014.pdf)
+- [x] [Data Structures for Statistical Computing in Python](https://conference.scipy.org/proceedings/scipy2010/pdfs/mckinney.pdf)
 - [x] [Effective Computation of Biased Quantiles over Data Streams](http://www.cs.rutgers.edu/~muthu/bquant.pdf)
 - [ ] [HyperLogLog and MinHash A Union for Intersections](http://tech.adroll.com/media/hllminhash.pdf)
 - [x] :star: [HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm](http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf)
