@@ -77,6 +77,7 @@ for a more objective list of major papers.
 
 ## Machine Learning
 
+- [x] :star: [A Brief Introduction to Boosting](https://www.cs.princeton.edu/~schapire/papers/Schapire99c.pdf)
 - [x] [Differential evolution–a simple and efficient heuristic for global optimization over continuous spaces](https://bitbucket.org/12er/pso/src/b448ff0db375c1ac0c55855e9f19aced08b44ca6/doc/literature/heuristic%20Search/Differential%20Evolution%20-%20a%20simple%20and%20efficient%20heuristic%20for%20global%20optimization%20over%20continuous%20spaces.pdf)
 - [x] [Evolving Neural Networks Through Augmenting Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
 
