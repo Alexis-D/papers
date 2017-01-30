@@ -86,6 +86,7 @@ for a more objective list of major papers.
 - [x] [A Scalable Concurrent `malloc(3)` Implementation for FreeBSD](https://people.freebsd.org/~jasone/jemalloc/bsdcan2006/jemalloc.pdf)
 - [ ] [Garbage Collection in an Uncooperative Environment](http://www.hboehm.info/spe_gc_paper/preprint.pdf)
 - [ ] [Plan 9 from Bell Labs](https://www.usenix.org/legacy/publications/compsystems/1995/sum_pike.pdf)
+- [x] [The Evolution of the Unix Time-sharing System](https://www.cis.upenn.edu/~lee/07cis505/Papers/ritchie-bstj84.pdf)
 - [x] [The Problem with Threads](http://www.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-1.pdf)
 - [x] [Traps and Pitfalls: Practical Problems in System Call Interposition Based Security Tools](https://people.eecs.berkeley.edu/~dawnsong/teaching/f12-cs161/readings/traps.pdf)
 - [x] :star: [The UNIX Time-Sharing System](http://www.cs.berkeley.edu/~brewer/cs262/unix.pdf)
