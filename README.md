@@ -54,6 +54,8 @@ for a more objective list of major papers.
 - [x] [Effective Computation of Biased Quantiles over Data Streams](http://www.cs.rutgers.edu/~muthu/bquant.pdf)
 - [ ] [HyperLogLog and MinHash A Union for Intersections](http://tech.adroll.com/media/hllminhash.pdf)
 - [x] :star: [HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm](http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf)
+- [ ] [On Multi-Column Foreign Key Discovery](https://www.comp.nus.edu.sg/~cospace/pub/vldb10-pkfk.pdf)
+- [ ] [On the resemblance and containment of documents](http://gatekeeper.dec.com/ftp/pub/dec/SRC/publications/broder/positano-final-wpnums.pdf)
 - [x] [Random Sampling with a Reservoir](https://www.cs.umd.edu/~samir/498/vitter.pdf)
 - [ ] [Randomized Search Trees](https://faculty.washington.edu/aragon/pubs/rst89.pdf)/[Fast Set Operations Using Treaps](https://www.cs.cmu.edu/~scandal/papers/treaps-spaa98.pdf)
 - [x] :star: [Seam Carving for Content-Aware Image Resizing](http://perso.crans.org/frenoy/matlab2012/seamcarving.pdf)
