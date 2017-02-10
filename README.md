@@ -45,7 +45,7 @@ for a more objective list of major papers.
 ## Data Structures/Algorithms
 
 - [x] :star: [A Java fork/join framework](http://gee.cs.oswego.edu/dl/papers/fj.pdf)
-- [ ] [An Improved Data Stream Summary: The Count-Min Sketch and its Applications](https://www.cse.unsw.edu.au/~cs9314/07s1/lectures/Lin_CS9314_References/cm-latin.pdf)
+- [x] [Approximating Data with the Count-Min Data Structure](http://dimacs.rutgers.edu/~graham/pubs/papers/cmsoft.pdf)
 - [ ] [An Optimal Algorithm for Selection in a Min-Heap](http://www.sciencedirect.com/science/article/pii/S0890540183710308)
 - [ ] [Cache-Oblivious Streaming B-trees](http://supertech.csail.mit.edu/papers/sbtree.pdf)
 - [ ] [Computing Extremely Accurate Quantiles using t-Digests](https://raw.githubusercontent.com/tdunning/t-digest/master/docs/t-digest-paper/histo.pdf)
