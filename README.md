@@ -3,6 +3,12 @@
 See <https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science>
 for a more objective list of major papers.
 
+## Books
+
+- [x] [Effective Java](https://www.pearson.com/us/higher-education/program/Bloch-Effective-Java-2nd-Edition/PGM310651.html)
+- [x] [High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark](http://www.highperformancespark.com/)
+- [x] [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html)
+
 ## Crypto/Security
 
 - [x] [A Convenient Method for Securely Managing Passwords](https://www.cs.utexas.edu/~bwaters/publications/papers/www2005.pdf)
