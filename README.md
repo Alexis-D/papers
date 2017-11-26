@@ -94,6 +94,7 @@ for a more objective list of major papers.
 ## OS/Systems
 
 - [x] [A Scalable Concurrent `malloc(3)` Implementation for FreeBSD](https://people.freebsd.org/~jasone/jemalloc/bsdcan2006/jemalloc.pdf)
+- [x] [End-to-End Arguments in System Design](http://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
 - [ ] [Garbage Collection in an Uncooperative Environment](http://www.hboehm.info/spe_gc_paper/preprint.pdf)
 - [ ] [Plan 9 from Bell Labs](https://www.usenix.org/legacy/publications/compsystems/1995/sum_pike.pdf)
 - [x] [The Evolution of the Unix Time-sharing System](https://www.cis.upenn.edu/~lee/07cis505/Papers/ritchie-bstj84.pdf)
