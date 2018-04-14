@@ -7,7 +7,8 @@ for a more objective list of major papers.
 
 - [x] [Effective Java](https://www.pearson.com/us/higher-education/program/Bloch-Effective-Java-2nd-Edition/PGM310651.html)
 - [x] [High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark](http://www.highperformancespark.com/)
-- [x] [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html)
+- [x] [Kubernetes: Up and Running](http://shop.oreilly.com/product/0636920043874.do)
+- [x] :star: [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html)
 
 ## Crypto/Security
 
@@ -47,7 +48,7 @@ for a more objective list of major papers.
 - [x] [Spark SQL: Relational Data Processing in Spark](https://people.csail.mit.edu/matei/papers/2015/sigmod_spark_sql.pdf)
 - [x] :star: [Tor: The Second-Generation Onion Router](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf)
 - [ ] [Unicorn: A System for Searching the Social Graph](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p871-curtiss.pdf)
-- [x] [Warp: Lightweight Multi-Key Transactions for Key-Value Stores](http://hyperdex.org/papers/warp.pdf acid on top of hyperdex)
+- [x] [Warp: Lightweight Multi-Key Transactions for Key-Value Stores](https://arxiv.org/pdf/1509.07815.pdf)
 - [x] [Why the Internet only just works](http://www0.cs.ucl.ac.uk/staff/M.Handley/papers/only-just-works.pdf)
 
 ## Data Structures/Algorithms
