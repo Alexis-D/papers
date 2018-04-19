@@ -5,6 +5,7 @@ for a more objective list of major papers.
 
 ## Books
 
+- [x] [Crypto 101](https://github.com/crypto101/crypto101.github.io/raw/master/Crypto101.pdf)
 - [x] [Effective Java](https://www.pearson.com/us/higher-education/program/Bloch-Effective-Java-2nd-Edition/PGM310651.html)
 - [x] [High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark](http://www.highperformancespark.com/)
 - [x] [Kubernetes: Up and Running](http://shop.oreilly.com/product/0636920043874.do)
@@ -22,6 +23,7 @@ for a more objective list of major papers.
 - [x] :star: [Mental Poker](https://people.csail.mit.edu/rivest/ShamirRivestAdleman-MentalPoker.pdf)
 - [x] :star: [Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices](https://factorable.net/weakkeys12.conference.pdf)
 - [x] :star: [New directions in cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf)
+- [x] [Nuts and Bolts of Encryption: A Primer for Policymakers](https://www.cs.princeton.edu/~felten/encryption_primer.pdf)
 - [x] [Protocols for Secure Computations](https://crysp.uwaterloo.ca/courses/pet/W11/cache/www.cs.wisc.edu/areas/sec/yao1982-ocr.pdf) (up to 3.1)
 - [x] [Reflections on Trusting Trust](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 - [ ] [Ron was wrong, Whit is right](https://eprint.iacr.org/2012/064.pdf)
@@ -77,6 +79,7 @@ for a more objective list of major papers.
 ## Google
 
 - [ ] [Bigtable: A Distributed Storage System for Structured Data](http://research.google.com/archive/bigtable-osdi06.pdf)
+- [ ] [Borg, Omega, and Kubernetes](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf)
 - [ ] [Dremel: Interactive Analysis of Web-Scale Datasets](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
 - [x] :star: [HyperLogLog in Practice: Algorithmic Engineering of a State of The Art Cardinality Estimation Algorithm](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40671.pdf)
 - [x] [MapReduce: Simplified Data Processing on Large Clusters](http://research.google.com/archive/mapreduce-osdi04.pdf)
