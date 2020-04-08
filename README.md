@@ -5,6 +5,7 @@ for a more objective list of major papers.
 
 ## Books
 
+- [ ] [Building Secure & Reliable Systems](https://landing.google.com/sre/resources/foundationsandprinciples/srs-book/)
 - [x] [Crypto 101](https://github.com/crypto101/crypto101.github.io/raw/master/Crypto101.pdf)
 - [x] [Database Internals](https://www.databass.dev/)
 - [ ] [Designing Data-Intensive Applications](https://dataintensive.net/)
