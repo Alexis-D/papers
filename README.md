@@ -117,6 +117,7 @@ for a more objective list of major papers.
 - [x] [Awk — A Pattern Scanning and Processing Language (Second Edition)](https://pdfs.semanticscholar.org/8f82/7d3d09ebe77887181414613e8cb47e32a8d2.pdf)
 - [x] :star: [Dynamic Class Loading in the Java™ Virtual Machine](http://www.humbertocervantes.net/coursdea/DynamicClassLoadingInTheJavaVirtualMachine.pdf)
 - [x] :star: [Git from the bottom up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
+- [x] [Mosh: An Interactive Remote Shell for Mobile Clients](https://mosh.org/mosh-paper.pdf)
 
 ## The Architecture of Open Source Applications
 
