@@ -88,6 +88,7 @@ for a more objective list of major papers.
 - [x] :star: [HyperLogLog in Practice: Algorithmic Engineering of a State of The Art Cardinality Estimation Algorithm](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40671.pdf)
 - [x] [MapReduce: Simplified Data Processing on Large Clusters](http://research.google.com/archive/mapreduce-osdi04.pdf)
 - [x] :star: [Pregel: A System for Large-Scale Graph Processing](https://kowshik.github.io/JPregel/pregel_paper.pdf)
+- [x] [The QUIC Transport Protocol: Design and Internet-Scale Deployment](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46403.pdf)
 - [x] [Security Keys: Practical Cryptographic Second Factors for the Modern Web](http://fc16.ifca.ai/preproceedings/25_Lang.pdf)
 - [ ] [Spanner: Google’s Globally-Distributed Database](http://static.googleusercontent.com/media/research.google.com/en/us/archive/spanner-osdi2012.pdf)
 - [x] :star: [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf)
