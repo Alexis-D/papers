@@ -119,6 +119,7 @@ for a more objective list of major papers.
 - [x] :star: [Dynamic Class Loading in the Java™ Virtual Machine](http://www.humbertocervantes.net/coursdea/DynamicClassLoadingInTheJavaVirtualMachine.pdf)
 - [x] :star: [Git from the bottom up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
 - [x] [Mosh: An Interactive Remote Shell for Mobile Clients](https://mosh.org/mosh-paper.pdf)
+- [x] [Trickle: A Userland Bandwidth Shaper for Unix-like Systems](https://www.usenix.org/legacy/event/usenix05/tech/freenix/full_papers/eriksen/eriksen.pdf)
 
 ## The Architecture of Open Source Applications
 
