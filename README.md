@@ -12,7 +12,7 @@ for a more objective list of major papers.
 - [x] [Effective Java](https://www.pearson.com/us/higher-education/program/Bloch-Effective-Java-2nd-Edition/PGM310651.html)
 - [x] [High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark](http://www.highperformancespark.com/)
 - [x] [Kubernetes: Up and Running](http://shop.oreilly.com/product/0636920043874.do)
-- [x] :star: [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html)
+- [ ] [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html)
 - [ ] [Streaming Systems](http://streamingsystems.net/)
 
 ## Crypto/Security
