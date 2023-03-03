@@ -74,6 +74,7 @@ for a more objective list of major papers.
 - [x] [Random Sampling with a Reservoir](https://www.cs.umd.edu/~samir/498/vitter.pdf)
 - [ ] [Randomized Search Trees](https://faculty.washington.edu/aragon/pubs/rst89.pdf)/[Fast Set Operations Using Treaps](https://www.cs.cmu.edu/~scandal/papers/treaps-spaa98.pdf)
 - [x] :star: [Seam Carving for Content-Aware Image Resizing](http://perso.crans.org/frenoy/matlab2012/seamcarving.pdf)
+- [x] [Skip Lists: A Probabilistic Alternative to Balanced Trees](https://www.cl.cam.ac.uk/teaching/2006/AlgorithI/skiplists.pdf)
 - [ ] [Space-Efficient Online Computation of Quantile Summaries](http://infolab.stanford.edu/~datar/courses/cs361a/papers/quantiles.pdf)
 - [x] [Space/time trade-offs in hash coding with allowable errors](https://www.cs.upc.edu/~diaz/p422-bloom.pdf)
 - [x] :star: [Swinging door trending: adaptive trend recording](http://www.ebristoliclrga.com/PDF/SwDr.pdf)
